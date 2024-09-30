@@ -1,0 +1,25 @@
+Line plot-diaplysinfo as a series of data points by straight line segements
+
+
+| Marker | Description          | Character |
+|--------|----------------------|-----------|
+| "."    | Point                | `'o'`     |
+| "o"    | Circle               | `'o'`     |
+| "v"    | Triangle down        | `'v'`     |
+| "^"    | Triangle up          | `'^'`     |
+| "<"    | Triangle left        | `'<'`     |
+| ">"    | Triangle right       | `'>'`     |
+| "s"    | Square               | `'s'`     |
+| "p"    | Pentagon             | `'p'`     |
+| "*"    | Star                 | `'*'`     |
+| "+"    | Plus sign            | `'+'`     |
+| "x"    | Cross                | `'x'`     |
+| "D"    | Diamond              | `'D'`     |
+| "d"    | Thin diamond         | `'d'`     |
+| "|"    | Vertical line        | `'|'`     |
+| "_"    | Horizontal line      | `'_'`     |
+
+
+Hello world
+
+Hey guys 
